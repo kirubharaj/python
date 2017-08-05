@@ -1,0 +1,6 @@
+b = 15
+sum = 0
+for i in b:
+    sum = sum + i;
+
+print sum
